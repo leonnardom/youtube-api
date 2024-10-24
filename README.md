@@ -26,7 +26,7 @@ Installation
 
 Clone the repository and install the dependencies:
 
-    git clone https://github.com/yourusername/youtube-api.git
+    git clone https://github.com/leonnardom/youtube-api.git
     cd youtube-api
     npm install
 
